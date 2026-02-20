@@ -60,7 +60,7 @@ Fashion Fusion is a modern, responsive e-commerce platform built with PHP, desig
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SonaniAkshit/e-commerce-clothstore-system-PHP.git
+   git clone url
    ```
 
 2. Set up your web server (Apache/XAMPP) and ensure PHP is installed
@@ -99,11 +99,6 @@ Fashion Fusion/
 
 ## 🙌 Contributing
 - Pull requests and feedback are welcome! Whether it's fixing bugs, improving UI, or adding features — your help is appreciated.
-
-## 📧 Contact
-- **Developer:** Akshit Sonani
-- **Email:** sonaniakshit684.com
-- **GitHub:** [SonaniAkshit](https://github.com/SonaniAkshit)
 
 # 🔥 Happy Coding! 🚀
 
